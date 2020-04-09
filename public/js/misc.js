@@ -84,7 +84,7 @@ function misc_GetClientIpAddress(callback){
     });
 }
 
-
+// http://jslim.net/blog/2019/04/17/window-onbeforeunload-trigger-ajax-request/
 // $(window).on('unload', function() {
 //     if (typeof navigator.sendBeacon !== "undefined") {
 //         //sending with beacon
